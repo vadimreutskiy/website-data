@@ -1,21 +1,21 @@
 # News
 
-- [Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/) published information about Soramitsu development office in Aizuwakamatsu, Fukushima
-- [Soramitsu and BCA Bank cooperated](https://www.newswire.com/news/applications-of-soramitsus-sora-platform-and-hyperledger-iroha-for-20902012) to complete a proof-of-concept for the potential use of blockchain in compliance procedures using Sora Identity Solution.
-- [NewsWire](https://www.newswire.com/news/blockchain-platform-initially-developed-in-japan-reaches-development-20895021) published a press release about Hyperledger Iroha v 1.0
-- Makoto Takemiya, Co-CEO of Soramitsu, presented an idea of a stable coin based on XOR token on [IEEE International Conference on Blockchain and Cryptocurrency](http://icbc2019.ieee-icbc.org) conference in Seoul, South Korea
-- Aleš Zivkovic, CTO of Soramitsu, gave an overview of Iroha and explained how DLT can be used in organizations on the [Consensus conference](https://www.coindesk.com/events/consensus-2019/agenda#speakers), organized by Condesk in New York, USA.
-- We have presented our implementation of a payment system based on D3 and Sora technology at [Pioneers](https://pioneers.io/pioneers19#/), a huge startup contest in Austria. GIN (Global Incubator Network) selected Soramitsu and asked us to participate in this event.
-- [Hyperledger Iroha v 1.0](https://www.hyperledger.org/blog/2019/05/06/welcome-hyperledger-iroha-1-0-flattening-the-dlt-learning-curve) is here! Reliability and effectiveness of Hyperledger Iroha are now production-ready!
-- Soramitsu started collaboration with Web3Foundation to develop the next node implementation of the Polkadot Runtime Environment (PRE) in the C++ programming language called Kagome. The release of Kagome is planned for August 2019
-- Soramitsu collaborated with [Aioi Nissay Dowa Insurance Co., Ltd](https://www.aioinissaydowa.co.jp/corporate/about/news/pdf/2018/news_2018111500535.pdf) and [CAC Corporation](https://www.cac.co.jp/news/topics_181115.html) to create a PoC trial for insurance use case decentralised ledger based on Hyperledger Iroha.
-- Peer-reviewed paper on Sora Identity was published by IEEE on [42nd Annual Computer Software and Applications Conference (COMPSAC)](https://www.computer.org/csdl/proceedings/compsac/2018/2666/02/266602a582-abs.html)
-- [Wall Street Journal](https://www.wsj.com/video/wsjcoin-to-understand-cryptocurrencies-we-created-one/BAB7B17C-9DED-43E5-8670-B5804695DA9A.html) created their own coin on Hyperledger Iroha
-- Headquarters [relocation announcement](http://www.soramitsu.co.jp/relocation)
-- Ryu Okada from Soramitsu will speak on a panel at the [Blockchain Symposium NYC](https://www.blockchainpilots.nl/blockchainsymposiumnyc), which is being run by the Dutch Government's Blockchain Projects group
-- Kazumasa Miyazawa from Soramitsu will speak at [Finsum](http://finsum.jp/speakers.html) on Tuesday in Tokyo
-- We have released [Iroha 1.0 beta](https://github.com/hyperledger/iroha/releases/tag/v1.0.0_beta-1)
-- We were chosen as ["Emerging Next Enterprise"](http://www.meti.go.jp/press/2017/10/20171020005/20171020005.html)
-- Application of Hyperledger Iroha to [Central Bank and Regulatory Uses of Blockchain](https://www.prnewswire.com/news-releases/application-of-hyperledger-iroha-to-central-bank-and-regulatory-uses-of-blockchain-300441943.html)
-- [Five companies](https://prtimes.jp/main/html/rd/p/000000007.000019078.html) participate in development of Hyperledger Iroha as partners
-- We have started operation test of [Byacco in University of Aizu](http://www.u-aizu.ac.jp/information/byakko-ex.html)
+- 2019.07.03: [Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/) published information about Soramitsu development office in Aizuwakamatsu, Fukushima
+- 2019.05.28: [Soramitsu and BCA Bank cooperated](https://www.newswire.com/news/applications-of-soramitsus-sora-platform-and-hyperledger-iroha-for-20902012) to complete a proof-of-concept for the potential use of blockchain in compliance procedures using Sora Identity Solution.
+- 2019.05.15: [NewsWire](https://www.newswire.com/news/blockchain-platform-initially-developed-in-japan-reaches-development-20895021) published a press release about Hyperledger Iroha v 1.0
+- 2019.05.14: Makoto Takemiya, Co-CEO of Soramitsu, presented an idea of a stable coin based on XOR token on [IEEE International Conference on Blockchain and Cryptocurrency](http://icbc2019.ieee-icbc.org) conference in Seoul, South Korea
+- 2019.05.13: Aleš Zivkovic, CTO of Soramitsu, gave an overview of Iroha and explained how DLT can be used in organizations on the [Consensus conference](https://www.coindesk.com/events/consensus-2019/agenda#speakers), organized by Condesk in New York, USA.
+- 2019.05.09: We have presented our implementation of a payment system based on D3 and Sora technology at [Pioneers](https://pioneers.io/pioneers19#/), a huge startup contest in Austria. GIN (Global Incubator Network) selected Soramitsu and asked us to participate in this event.
+- 2019.05.08: [Hyperledger Iroha v 1.0](https://www.hyperledger.org/blog/2019/05/06/welcome-hyperledger-iroha-1-0-flattening-the-dlt-learning-curve) is here! Reliability and effectiveness of Hyperledger Iroha are now production-ready!
+- 2019.03.05: Soramitsu started collaboration with Web3Foundation to develop the next node implementation of the Polkadot Runtime Environment (PRE) in the C++ programming language called Kagome. The release of Kagome is planned for August 2019
+- 2018.11.15: Soramitsu collaborated with [Aioi Nissay Dowa Insurance Co., Ltd](https://www.aioinissaydowa.co.jp/corporate/about/news/pdf/2018/news_2018111500535.pdf) and [CAC Corporation](https://www.cac.co.jp/news/topics_181115.html) to create a PoC trial for insurance use case decentralised ledger based on Hyperledger Iroha.
+- 2018.10.17: Peer-reviewed paper on Sora Identity was published by IEEE on [42nd Annual Computer Software and Applications Conference (COMPSAC)](https://www.computer.org/csdl/proceedings/compsac/2018/2666/02/266602a582-abs.html)
+- 2018.10.03: [Wall Street Journal](https://www.wsj.com/video/wsjcoin-to-understand-cryptocurrencies-we-created-one/BAB7B17C-9DED-43E5-8670-B5804695DA9A.html) created their own coin on Hyperledger Iroha
+- 2018.09.22: Headquarters [relocation announcement](http://www.soramitsu.co.jp/relocation)
+- 2018.09.24: Ryu Okada from Soramitsu will speak on a panel at the [Blockchain Symposium NYC](https://www.blockchainpilots.nl/blockchainsymposiumnyc), which is being run by the Dutch Government's Blockchain Projects group
+- 2018.09.22: Kazumasa Miyazawa from Soramitsu will speak at [Finsum](http://finsum.jp/speakers.html) on Tuesday in Tokyo
+- 2018.03.31: We have released [Iroha 1.0 beta](https://github.com/hyperledger/iroha/releases/tag/v1.0.0_beta-1)
+- 2017.11.08: We were chosen as ["Emerging Next Enterprise"](http://www.meti.go.jp/press/2017/10/20171020005/20171020005.html)
+- 2017.04.21: Application of Hyperledger Iroha to [Central Bank and Regulatory Uses of Blockchain](https://www.prnewswire.com/news-releases/application-of-hyperledger-iroha-to-central-bank-and-regulatory-uses-of-blockchain-300441943.html)
+- 2017.03.29: [Five companies](https://prtimes.jp/main/html/rd/p/000000007.000019078.html) participate in development of Hyperledger Iroha as partners
+- 2017.03.16: We have started operation test of [Byacco in University of Aizu](http://www.u-aizu.ac.jp/information/byakko-ex.html)
