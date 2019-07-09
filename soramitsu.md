@@ -19,7 +19,9 @@ Hyperledger Iroha is a next-generation permissioned blockchain platform, aimed a
 
 Soramitsu uses Hyperledger Iroha to create services for users, including mobile applications for managing digital assets, identity, and contracts. Through our use of Hyperledger Iroha, we hope to contribute to a safer and more efficient society.
 
-Details
+[Details](https://soramitsu.co.jp/iroha)
+
+[GitHub](https://github.com/hyperledger/iroha)
 
 ## Iroha support
 
@@ -61,9 +63,9 @@ Sora (XOR) is a utility token that powers the Sora ecosystem. Premium functions 
 
 There is no ICO, but Sora token will be distributed soon. Keep in touch!
 
-Learn more
+[Learn more](https://sora.org/)
 
-Join Telegram chat
+[Join Telegram chat](https://t.me/sora_xor)
 
 ## Digital Assets
 
@@ -73,7 +75,7 @@ Soramitsu is the original creator of Hyperledger Iroha and has deep understandin
 
 ### Kagome
 
-Kagome is a C ++  implementation of the Polkadot Runtime Environment developed by Soramitsu and funded by a Web3 Foundation grant. With Kagome, all Soramitsu projects can be connected to blockchains supporting Polkadot, thus becoming a part of the next-generation decentralized web.
+Kagome is a C++ implementation of the [Polkadot Runtime Environment](https://wiki.polkadot.network/en/latest/polkadot/learn/PRE/) developed by Soramitsu and funded by a [Web3 Foundation grant](https://grants.web3.foundation/). With Kagome, all Soramitsu projects can be connected to blockchains supporting Polkadot, thus becoming a part of the next-generation decentralized web.
 
 ### Digital Identity
 
@@ -111,23 +113,33 @@ Byacco is a local, digital currency for the University of Aizu. Based on mobile 
 
 Co-Founder / SORA Director
 
+[Linkedin](https://www.linkedin.com/in/ikkei-matsuda-松田一敬-74549735)
+
 ### Makoto Takemiya
 
 Co-founder / CEO / blockchain engineer
+
+[Linkedin](https://www.linkedin.com/in/makoto-takemiya/), [Twitter](https://twitter.com/m4k070)
 
 ### Ryu Okada
 
 Co-founder / Chairman
 
+[Linkedin](https://www.linkedin.com/in/ryu-okada-69080628/), [Twitter](https://twitter.com/RyuOkada88)
+
 ### Kazumasa Miyazawa
 
 SORA Director
+
+[Linkedin](https://www.linkedin.com/in/kazumasa-miyazawa-52955564/)
 
 ### Tsukasa Ojima
 
 SORA Director
 
-### Advisers
+[Linkedin](https://www.linkedin.com/in/tsukasa-ojima-309b1b90/)
+
+## Advisers
 
 - Satoshi Hirota
 - Nobuo Nakamura
@@ -143,7 +155,7 @@ By JR Train: 4 min walk to JR Yamanote Line, Harajuku Station, Exit Takeshita-gu
 
 Proud Member of the Japan Blockchain Association
 
-Proud Member of the Global Blockchain Business Council
+Proud Member of the [Global Blockchain Business Council](https://gbbcouncil.org/)
 
 ## Become a partner form
 
