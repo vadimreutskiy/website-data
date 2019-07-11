@@ -7,7 +7,7 @@
 - Про нас
 - Проекты
 - Команда
-- Contact
+- Контакты
 
 ## Заголовок
 
@@ -23,9 +23,9 @@
 
 Мы считаем, что экономика должна быть децентрализованной, но в то же время рациональной. Sora - децентрализованная автономная экономика (DAE), первая в мире децентрализованная экономика, в которой важен голос каждого каждого для того, чтобы вместе делать мир лучше.
 
-[Soramitsu](https://soramitsu.co.jp/), founded by [Makoto Takemiya](https://www.linkedin.com/in/makoto-takemiya/) and [Ryu Okada](https://www.linkedin.com/in/ryu-okada-69080628/), is building Sora with the aim to create a new type of economic system to improve the efficiency of society.
+[Soramitsu](https://soramitsu.co.jp/), основанная [Макото Такемия](https://www.linkedin.com/in/makoto-takemiya/) и [Рю Окада](https://www.linkedin.com/in/ryu-okada-69080628/), разрабатывает Sora для создания нового типа экономической системы, повышающего эффективность общества в целом.
 
-"Let's create a new society around empowerment, democratization, and collaboration."
+«Давайте создадим новое общество, объединенное вокруг идеи расширения прав и возможностей, демократизации и сотрудничества».
 
 -Макото Такемия, Исполнительный содиректор Soramitsu
 
@@ -33,7 +33,7 @@
 
 ### ПОДДЕРЖКА
 
-Project producers build products and services in the Sora Economy.
+Авторы проектов создают товары и услуги в экономике Sora.
 
 ### ДЕМОКРАТИЗАЦИЯ
 
