@@ -13,7 +13,7 @@
 
 ### Один мир. Одна экономика. Sora.
 
-"Sora means sky. Just as the sky covers the whole world, we want to create the economy of everything, for everyone."
+«Сора означает небо. Так же, как небо покрывает весь мир, мы хотим создать экономию всего, для всех».
 
 [Присоединиться к Telegram чату](https://t.me/sora_xor)
 
