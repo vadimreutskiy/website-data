@@ -51,6 +51,27 @@ Request support
 
 Become a partner
 
+### "Become a partner" form
+
+- Company Name
+- Last name
+- First name
+- Department
+- E-mail
+- Phone
+- Company logo
+  - Upload your logo image
+  - Add file
+- WebPage for logo link
+- Release date
+  - If you have release date, please write
+- Use cases under consideration
+- I agree to [Terms and conditions](https://soramitsu.co.jp/en/terms)
+
+Send
+
+Thank you! Your data has been submitted.
+
 ## Digital Identity
 
 Identity is at the base of all financial applications in the digital economy. Having a convenient and secure way to share personal information, validate it, and prove your identity in a digital environment is the key to creating safe, decentralized applications, that give users control over their own information.
