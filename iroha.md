@@ -129,6 +129,8 @@ Here are some community materials to get you started
 
 [YouTube channel with tutorials](https://www.youtube.com/channel/UCYlK9OrZo9hvNYFuf0vrwww)
 
+[Iroha Sandbox](https://www.katacoda.com/soramitsu/scenarios/iroha-transfer-asset)
+
 Chats: [Telegram](https://t.me/hyperledgeriroha), [Hyperledger Rocket](https://chat.hyperledger.org/channel/iroha), [Gitter](https://gitter.im/hyperledger-iroha/Lobby)
 
 ## Examples
