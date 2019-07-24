@@ -17,15 +17,15 @@
 
 [ចូលរួមជជែកគ្នាតាម ថេឡេក្រាម (Telegram)](https://t.me/sora_xor)
 
-## About Us
+## អំពីយើង
 
 ការគ្រប់គ្រងប្រព័ន្ធសេដ្ឋកិច្ចកណ្ដាលផ្ដល់នូវអត្ថប្រយោជន៍ត្រឹមតែមនុស្សមួយក្រុមតូចតែប៉ុណ្ណោះ ដោយចំណាយលើការអភិវឌ្ឍប្រកបដោយចីរភាព។
 
 យើងជឿជាក់ថាសេដ្ឋកិច្ចគួរតែជាប្រព័ន្ធវិមជ្ឈការ។ សេដ្ឋកិច្ចស្វយ័តវិមជ្ឈការសូរ៉ា (DAE) គឺជាសេដ្ឋកិច្ចវិមជ្ឈការដំបូងគេនៅលើពិភពលោក ទីដែលមនុស្សគ្រប់គ្នាចូលរួមដើម្បីបង្កើតពិភពលោកដ៏ល្អបំផុតរួមគ្នា។
 
-[Soramitsu](https://soramitsu.co.jp/), founded by [Makoto Takemiya](https://www.linkedin.com/in/makoto-takemiya/) and [Ryu Okada](https://www.linkedin.com/in/ryu-okada-69080628/), is building Sora with the aim to create a new type of economic system to improve the efficiency of society.
+[សូរ៉ាមីតស៊ឹ (Soramitsu)](https://soramitsu.co.jp/) ដែលត្រូវបានបង្កើតឡើងដោយលោក [ម៉ាខូតុ ថាកេមីយ៉ៈ (Makoto Takemiya)](https://www.linkedin.com/in/makoto-takemiya/) និងលោក [យឿ អូកាដាក់ (Ryu Okada)](https://www.linkedin.com/in/ryu-okada-69080628/)។​ សូរ៉ាមីតស៊ឹ (Soramitsu) កំពុងកសាងសូរ៉ា (Sora) ក្នុងគោលបំណងបង្កើតប្រព័ន្ធសេដ្ឋកិច្ចប្រភេទថ្មីដើម្បីលើកកម្ពស់ប្រសិទ្ធភាពនៃសង្គម។
 
-"Let's create a new society around empowerment, democratization, and collaboration."
+"ចូលរួមទាំងអស់គ្នាដើម្បីបង្កើតសង្គមថ្មីមួយប្រកបដោយការផ្ដល់សិទ្ធិអំណាច ការធ្វើប្រជាធិបតេយ្យបនីយកម្មនិងការសហការគ្នា។"
 
 - លោក ម៉ាខូតុ ថាកេមីយ៉ៈ (Makoto Takemiya) ជាសហនាយកប្រតិបត្តិរបស់សូរ៉ាមីតស៊ឹ (Soramitsu) 
 
@@ -49,11 +49,11 @@
 
 សូរ៉ា (Sora) បានផ្ដោតលើការពង្រឹងគម្រោងដែលផ្ដល់អត្ថប្រយោជន៍ដល់សង្គមដោយចែកចាយទំនិញនិងសេវាកម្មថ្មី។ គម្រោងខ្លះរបស់យើងនឹងចេញឆាប់ៗនេះ។ សូមបន្តរង់ចាំ!
 
-Everyone can now install the iOS Sora App. It's on a test network so it's a good way to try things out with no risk. Join our [Telegram Chat](https://t.me/sora_xor) and request an invitation code to get started!
+ឥឡូវនេះ អ្នកគ្រប់គ្នាអាចដំឡើងកម្មវិធី Sora នៅក្នុងប្រព័ន្ធប្រតិបត្តិការអាយអូអេស (iOS) ។ វាស្ថិតនៅលើបណ្ដាញសាកល្បង ដូច្នេះវាគឺជាវិធីដ៏ល្អមួយដើម្បីសាកល្បងកម្មវិធីដោយមិនមានហានិភ័យអ្វីឡើយ។ ចូលរួមជជែកគ្នាជាមួយយើងតាម [ថេឡេក្រាម (Telegram)](https://t.me/sora_xor) ហើយស្នើសុំលេខកូដដើម្បីចាប់ផ្តើម!
 
 ### [ឌីស្រ៊ី ឡិចដ៍ជឺ (D3 Ledger)](https://d3ledger.com/)
 
-D3 is the Decentralized Digital Depository for digital assets. It enables financial institutions to work with all types of blockchain-based assets safely and compliantly."
+ឌីស្រ៊ី (D3) គឺជាការតម្កល់ទ្រព្យសកម្មឌីជីថលបែបវិមជ្ឈការ។ វាអនុញ្ញាតឱ្យស្ថាប័នហិរញ្ញវត្ថុធ្វើការជាមួយទ្រព្យសកម្មដែលប្រើប្លក់ឆេន (blockchain) ជាគោល គ្រប់ប្រភេទប្រកបដោយសុវត្ថិភាព។
 
 [សិក្សាបន្តទៀត](https://d3ledger.com/)
 
@@ -96,7 +96,7 @@ D3 is the Decentralized Digital Depository for digital assets. It enables financ
 
 នាយក សូរ៉ា (Sora)
 
-Tsukasa Ojima is the former Vice President of Sanwa Bank California and a former Nomura Securities Executive.
+លោក សឹកាសា អូជីម៉ៈ (Tsukasa Ojima) គឺជាអតីតអនុប្រធាននៃធនាគារ សាន់វ៉ា កាលីហ្វ័រនីញ៉ា (Sunwa Bank California) និងជាអតីតប្រធានប្រតិបត្តិរបស់ក្រុមហ៊ុនផ្សារមូលបត្រ ណូមូរ៉ា (Nomura Securities) ។
 
 ## បន្តភ្ជាប់ទំនាក់ទំនង
 
@@ -120,6 +120,6 @@ Tsukasa Ojima is the former Vice President of Sanwa Bank California and a former
 
 ## Footer
 
-[Terms & Conditions](https://sora.org/terms)
+[លក្ខខណ្ឌ](https://sora.org/terms)
 
-Back to top
+ត្រលប់ទៅខាងលើ
