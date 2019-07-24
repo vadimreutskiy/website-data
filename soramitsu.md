@@ -64,7 +64,7 @@ Become a partner
   - Add file
 - WebPage for logo link
 - Release date
-  - If you have release date, please write
+  - If you have release date, please enter it
 - Use cases under consideration
 - I agree to [Terms and conditions](https://soramitsu.co.jp/en/terms)
 
