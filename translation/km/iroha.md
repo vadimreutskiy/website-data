@@ -129,6 +129,8 @@
 
 [ឆានែលយូធូបមេរៀន](https://www.youtube.com/channel/UCYlK9OrZo9hvNYFuf0vrwww)
 
+[អ៊ីរូហា ស៊ែនបក់ (Iroha Sandbox)](https://www.katacoda.com/soramitsu/scenarios/iroha-transfer-asset)
+
 ជជែកគ្នាតាម៖ [ថេឡេក្រាម (Telegram)](https://t.me/hyperledgeriroha), [ហាយផឺឡិដ៍ជឺ រ៉ក់ឃែត (Hyperledger Rocket)](https://chat.hyperledger.org/channel/iroha), [ហ្គីតធើ (Gitter)](https://gitter.im/hyperledger-iroha/Lobby) 
 
 ## ឧទាហរណ៍
