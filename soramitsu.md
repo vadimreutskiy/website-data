@@ -62,9 +62,9 @@ Become a partner
 - Company logo
   - Upload your logo image
   - Add file
-- WebPage for logo link
+  - WebPage for logo link
 - Release date
-  - If you have release date, please enter it
+  - If you have release date, please enter it.
 - Use cases under consideration
 - I agree to [Terms and conditions](https://soramitsu.co.jp/en/terms)
 
@@ -177,23 +177,3 @@ By JR Train: 4 min walk to JR Yamanote Line, Harajuku Station, Exit Takeshita-gu
 Proud Member of the Japan Blockchain Association
 
 Proud Member of the [Global Blockchain Business Council](https://gbbcouncil.org/)
-
-## Become a partner form
-
-- Company Name
-- Last name
-- First name
-- Department
-- E-mail
-- Phone
-- Company logo
-  - Upload your logo image
-  - WebPage for logo link
-- Release date
-  - If you have release date, please enter it.
-- Use cases under consideration
-- I agree with Terms and Conditions
-
-Send
-
-Thank you! Your data has been submitted.
