@@ -1,5 +1,8 @@
 # News
 
+- 2019.09.06: Soramitsu won UK Award at [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) in Tokyo. 
+    We also received Future of Financial Services award from UK Tech Rocketships!
+- 2019.09.05: Kazumasa Miyazawa gave a speech on digital identity and eKYC at [ACAMS international AML meeting](https://www.acams.org/aml-training-seminar-tokyo/) in Tokyo
 - 2019.07.17: We are happy to announce that project Bakong which we work on in collaboration with Nation Bank of Cambodia has been successfully in test with real money since 17th of July and showing great results!
 - 2019.07.03: [Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/) published information about Soramitsu development office in Aizuwakamatsu, Fukushima
 - 2019.06.20: Ales Zivkovic, CTO of Soramitsu, attended [Malaysia Blockchain Week](https://www.malaysiablockchainweek.com) and gave a presentation on how to use blockchain for next generation financial services.
