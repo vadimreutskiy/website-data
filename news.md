@@ -3,6 +3,10 @@
 - 2019.09.06: Soramitsu won UK Award at [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) in Tokyo. 
     We also received Future of Financial Services award from UK Tech Rocketships!
 - 2019.09.05: Kazumasa Miyazawa gave a speech on digital identity and eKYC at [ACAMS international AML meeting](https://www.acams.org/aml-training-seminar-tokyo/) in Tokyo
+- 2019.09.04: Makoto Takemiya presented Soramitsu projects and lead discussions about blockchain and digital currencies at [Fintech Regtech Global Summit](https://events.centralbanking.com/fintechandregtech) in Sigapore
+- 2019.08.18: Makoto Takemiya presented speech on “Kagome: A C++ Implementation of the Polkadot Runtime Environment” at [Polkadot Dotcon conference](https://polkadot.network/dotcon/) in Berlin
+- 2019.08.02: Makoto Takemiya participated with lightning talk about the Soramitsu and Hyperledger Iroha on [Hyperledger Global Leaders Meetup](https://www.meetup.com/Hyperledger-Tokyo/events/262499705/) in Tokyo
+- 2019.07.30: Makoto Takemiya and Kazumasa Miyazawa presented analysis of use cases for Hyperledger Iroha and it's application for starting financial and information revolution at [Hyperledger Member Summit](https://events.linuxfoundation.org/events/hyperledger-member-summit-2019/) in Tokyo
 - 2019.07.17: We are happy to announce that project Bakong which we work on in collaboration with Nation Bank of Cambodia has been successfully in test with real money since 17th of July and showing great results!
 - 2019.07.03: [Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/) published information about Soramitsu development office in Aizuwakamatsu, Fukushima
 - 2019.06.20: Ales Zivkovic, CTO of Soramitsu, attended [Malaysia Blockchain Week](https://www.malaysiablockchainweek.com) and gave a presentation on how to use blockchain for next generation financial services.
