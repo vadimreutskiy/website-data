@@ -130,6 +130,8 @@ Sora - это система децентрализованной экономи
 
 [Канал на YouTube с руководствами](https://www.youtube.com/channel/UCYlK9OrZo9hvNYFuf0vrwww)
 
+[Среда обучения Iroha](https://www.katacoda.com/soramitsu/scenarios/iroha-transfer-asset)
+
 Чаты: [Telegram](https://t.me/hyperledgeriroha), [Hyperledger Rocket](https://chat.hyperledger.org/channel/iroha), [Gitter](https://gitter.im/hyperledger-iroha/Lobby)
 
 ## Примеры
