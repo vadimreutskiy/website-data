@@ -140,13 +140,13 @@ Soramitsu и Национальный Банк Камбоджи совместн
 
 Соучредитель / Исполнительный директор / Блокчейн инженер
 
-[Linkedin](https://www.linkedin.com/in/ryu-okada-69080628/), [Twitter](https://twitter.com/RyuOkada88)
+[Linkedin](https://www.linkedin.com/in/makoto-takemiya/), [Twitter](https://twitter.com/m4k070)
 
 ### Рю Окада
 
 Соучредитель / Председатель совета директоров
 
-[Linkedin](https://www.linkedin.com/in/makoto-takemiya/), [Twitter](https://twitter.com/m4k070)
+[Linkedin](https://www.linkedin.com/in/ryu-okada-69080628/), [Twitter](https://twitter.com/RyuOkada88)
 
 ### Казумаса Миязава
 
