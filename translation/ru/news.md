@@ -1,6 +1,7 @@
 # Новости
 
 - 2019.07.03: [Издание Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/)  опубликовало информацию про новый офис разработки компании Soramitsu в Айзувакамацу, префектура Фукусима
+- 2019.06.20: Алеш Живкович, CTO компании Soramitsu, принял участие в [Malaysia Blockchain Week](https://www.malaysiablockchainweek.com) и выступил с презентацией об использовании технологии блокчейн в финансовых сервисах нового поколения.
 - 2019.05.28: [Сорамитсу и банк BCA](https://www.newswire.com/news/applications-of-soramitsus-sora-platform-and-hyperledger-iroha-for-20902012) успешно завершили proof-of-concept проект по использованию блокчейна для эффективной идентифиации клиентов при помощи платформы Sora Identity. 
 - 2019.05.15: [Издание NewsWire](https://www.newswire.com/news/blockchain-platform-initially-developed-in-japan-reaches-development-20895021) опубликовало пресс релиз про выпуск Hyperledger Iroha v 1.0
 - 2019.05.14: Макото Такемия, исполнительный содиректор Soramitsu, выступил с презентацией идеи стейблкоина, основанного на цифровой валюте XOR, на конференции [IEEE International Conference on Blockchain and Cryptocurrency](http://icbc2019.ieee-icbc.org) в Сеуле, Южная Корея.

@@ -1,6 +1,15 @@
 # News
 
+- 2019.09.06: Soramitsu won UK Award at [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) in Tokyo.
+    We also received Future of Financial Services award from UK Tech Rocketships!
+- 2019.09.05: Kazumasa Miyazawa gave a speech on digital identity and eKYC at [ACAMS international AML meeting](https://www.acams.org/aml-training-seminar-tokyo/) in Tokyo
+- 2019.09.04: Makoto Takemiya presented Soramitsu projects and lead discussions about blockchain and digital currencies at [Fintech Regtech Global Summit](https://events.centralbanking.com/fintechandregtech) in Singapore
+- 2019.08.18: Makoto Takemiya presented speech on “Kagome: A C++ Implementation of the Polkadot Runtime Environment” at [Polkadot Dotcon conference](https://polkadot.network/dotcon/) in Berlin
+- 2019.08.02: Makoto Takemiya participated with lightning talk about the Soramitsu and Hyperledger Iroha on [Hyperledger Global Leaders Meetup](https://www.meetup.com/Hyperledger-Tokyo/events/262499705/) in Tokyo
+- 2019.07.30: Makoto Takemiya and Kazumasa Miyazawa presented analysis of use cases for Hyperledger Iroha and it's application for starting financial and information revolution at [Hyperledger Member Summit](https://events.linuxfoundation.org/events/hyperledger-member-summit-2019/) in Tokyo
+- 2019.07.17: We are happy to announce that project Bakong which we work on in collaboration with Nation Bank of Cambodia has been successfully in test with real money since 17th of July and showing great results!
 - 2019.07.03: [Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/) published information about Soramitsu development office in Aizuwakamatsu, Fukushima
+- 2019.06.20: Ales Zivkovic, CTO of Soramitsu, attended [Malaysia Blockchain Week](https://www.malaysiablockchainweek.com) and gave a presentation on how to use blockchain for next generation financial services.
 - 2019.05.28: [Soramitsu and BCA Bank cooperated](https://www.newswire.com/news/applications-of-soramitsus-sora-platform-and-hyperledger-iroha-for-20902012) to complete a proof-of-concept for the potential use of blockchain in compliance procedures using Sora Identity Solution.
 - 2019.05.15: [NewsWire](https://www.newswire.com/news/blockchain-platform-initially-developed-in-japan-reaches-development-20895021) published a press release about Hyperledger Iroha v 1.0
 - 2019.05.14: Makoto Takemiya, Co-CEO of Soramitsu, presented an idea of a stable coin based on XOR token on [IEEE International Conference on Blockchain and Cryptocurrency](http://icbc2019.ieee-icbc.org) conference in Seoul, South Korea
@@ -11,9 +20,10 @@
 - 2018.11.15: Soramitsu collaborated with [Aioi Nissay Dowa Insurance Co., Ltd](https://www.aioinissaydowa.co.jp/corporate/about/news/pdf/2018/news_2018111500535.pdf) and [CAC Corporation](https://www.cac.co.jp/news/topics_181115.html) to create a PoC trial for insurance use case decentralised ledger based on Hyperledger Iroha.
 - 2018.10.17: Peer-reviewed paper on Sora Identity was published by IEEE on [42nd Annual Computer Software and Applications Conference (COMPSAC)](https://www.computer.org/csdl/proceedings/compsac/2018/2666/02/266602a582-abs.html)
 - 2018.10.03: [Wall Street Journal](https://www.wsj.com/video/wsjcoin-to-understand-cryptocurrencies-we-created-one/BAB7B17C-9DED-43E5-8670-B5804695DA9A.html) created their own coin on Hyperledger Iroha
-- 2018.09.22: Headquarters [relocation announcement](http://www.soramitsu.co.jp/relocation)
 - 2018.09.24: Ryu Okada from Soramitsu will speak on a panel at the [Blockchain Symposium NYC](https://www.blockchainpilots.nl/blockchainsymposiumnyc), which is being run by the Dutch Government's Blockchain Projects group
+- 2018.09.22: Headquarters [relocation announcement](http://www.soramitsu.co.jp/relocation)
 - 2018.09.22: Kazumasa Miyazawa from Soramitsu will speak at [Finsum](http://finsum.jp/speakers.html) on Tuesday in Tokyo
+- 2018.09.04: Soramitsu won the competition under the [Visa’s Everywhere Initiative](https://www.visa.co.jp/visa-everywhere/everywhere-initiative/initiative.html) with Audience Favourite Award
 - 2018.03.31: We have released [Iroha 1.0 beta](https://github.com/hyperledger/iroha/releases/tag/v1.0.0_beta-1)
 - 2017.11.08: We were chosen as ["Emerging Next Enterprise"](http://www.meti.go.jp/press/2017/10/20171020005/20171020005.html)
 - 2017.04.21: Application of Hyperledger Iroha to [Central Bank and Regulatory Uses of Blockchain](https://www.prnewswire.com/news-releases/application-of-hyperledger-iroha-to-central-bank-and-regulatory-uses-of-blockchain-300441943.html)
