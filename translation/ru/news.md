@@ -1,12 +1,12 @@
 # Новости
 
 - 2019.09.06: Сорамицу получила награду UK Award на [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) в Токио.Кроме того, мы победили в номинации Future of Financial Services от UK Tech Rocketships!
-- 2019.09.05: Kazumasa Miyazawa gave a speech on digital identity and eKYC at [ACAMS international AML meeting](https://www.acams.org/aml-training-seminar-tokyo/) in Tokyo
+- 2019.09.05: Казумаса Миязава выступил с речью о проекте цифровой идентификации и электронного KYC на [международной встрече ACAMS по AML](https://www.acams.org/aml-training-seminar-tokyo/) в Токио
 - 2019.09.04: Макото Такемия презентовал проекты Soramitsu и возглавил дискуссию про блокчейн и цифровые валюты на [Fintech Regtech Global Summit](https://events.centralbanking.com/fintechandregtech) в Сингапуре
-- 2019.08.18: Makoto Takemiya presented speech on “Kagome: A C++ Implementation of the Polkadot Runtime Environment” at [Polkadot Dotcon conference](https://polkadot.network/dotcon/) in Berlin
-- 2019.08.02: Makoto Takemiya participated with lightning talk about the Soramitsu and Hyperledger Iroha on [Hyperledger Global Leaders Meetup](https://www.meetup.com/Hyperledger-Tokyo/events/262499705/) in Tokyo
-- 2019.07.30: Makoto Takemiya and Kazumasa Miyazawa presented analysis of use cases for Hyperledger Iroha and it's application for starting financial and information revolution at [Hyperledger Member Summit](https://events.linuxfoundation.org/events/hyperledger-member-summit-2019/) in Tokyo
-- 2019.07.17: We are happy to announce that project Bakong which we work on in collaboration with Nation Bank of Cambodia has been successfully in test with real money since 17th of July and showing great results!
+- 2019.08.18: Макото Такемия выступил с речью на тему “Kagome: C++ Implementation of the Polkadot Runtime Environment” на [Polkadot Dotcon conference](https://polkadot.network/dotcon/) в Берлине
+- 2019.08.02: Макото Такемия выступил с лайтнинг-спич про компанию Сорамитсу и проект Hyperledger Iroha на [Hyperledger Global Leaders Meetup](https://www.meetup.com/Hyperledger-Tokyo/events/262499705/) в Токио
+- 2019.07.30:  Макото Такемия и Казумаса Миязава выступили с результатами анализа вариантов использования проекта Hyperledger Iroha, а также его применения для финансовой и информационной революции на [Hyperledger Member Summit](https://events.linuxfoundation.org/events/hyperledger-member-summit-2019/) в Токио
+- 2019.07.17: Мы счастливы объявить что проект Bakong, который мы разрабатываем вместе с Nation Bank of Cambodia, 17 июля 2019 года был успешно тестовую эксплуатацию с использованием реальных финансов!
 - 2019.07.03: [Издание Nikkei](https://www.nikkei.com/article/DGXMZO46908460T00C19A7L01000/)  опубликовало информацию про новый офис разработки компании Soramitsu в Айзувакамацу, префектура Фукусима
 - 2019.06.20: Алеш Живкович, CTO компании Soramitsu, принял участие в [Malaysia Blockchain Week](https://www.malaysiablockchainweek.com) и выступил с презентацией об использовании технологии блокчейн в финансовых сервисах нового поколения.
 - 2019.05.28: [Сорамитсу и банк BCA](https://www.newswire.com/news/applications-of-soramitsus-sora-platform-and-hyperledger-iroha-for-20902012) успешно завершили proof-of-concept проект по использованию блокчейна для эффективной идентифиации клиентов при помощи платформы Sora Identity. 
