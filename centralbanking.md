@@ -26,7 +26,8 @@ End Consumer Features:
 
 - Deposits and withdrawals to and from a traditional bank account or a digital account
 - EMVCo-compatible QR codes for near instantaneous money transfers between users and merchants bank or digital accounts
-- Support for sovereign digital currencies, foreign currencies, and additional digital assets User-friendly KYC using physical ID document scan and ID photo check with biometric liveness detection
+- Support for sovereign digital currencies, foreign currencies, and additional digital assets 
+- User-friendly KYC using physical ID document scan and ID photo check with biometric liveness detection
 
 Admin Features (Banks & Payment Providers):
 
