@@ -177,3 +177,5 @@ By JR Train: 4 min walk to JR Yamanote Line, Harajuku Station, Exit Takeshita-gu
 Proud Member of the Japan Blockchain Association
 
 Proud Member of the [Global Blockchain Business Council](https://gbbcouncil.org/)
+
+This website uses cookies to ensure you get the best experience
