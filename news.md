@@ -1,5 +1,6 @@
 # News
 
+- 2019.09.12: Soramitsu won the "Future of Financial Services" award on [Tech Rocketship Awards](https://www.gov.uk/government/news/426385.ja), held by the British Embassy in Japan and the Scottish International Development Agency​
 - 2019.09.06: Soramitsu won UK Award at [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) in Tokyo.
     We also received Future of Financial Services award from UK Tech Rocketships!
 - 2019.09.05: Kazumasa Miyazawa gave a speech on digital identity and eKYC at [ACAMS international AML meeting](https://www.acams.org/aml-training-seminar-tokyo/) in Tokyo
