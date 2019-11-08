@@ -1,5 +1,10 @@
 # News
 
+- 2019.11.07: Bakong project is receiving more and more attention. Check out the [newest publication](https://globe.asahi.com/article/12856282) about it.
+- 2019.10.18: We released [Sora](https://sora.org/)!
+- 2019.10.14: Yuri Vinogradov gave a talk about ecosystem around HL Iroha at [Blockchain Life Moscow](https://soramitsu.co.jp/Blockchain%20Life%20in%20Moscow)
+- 2019.10.14: Soramitsu team attended [Hyperledger Bootcamp Moscow](https://wiki.hyperledger.org/display/RU/BootCamp+Russia) to represent HL Iroha community
+- 2019.10.02: Soramitsu CEO Ales Zivkovic introduced Bakong at [Cambodia FinTech Day 2019](https://www.prasac.com.kh/en/news-and-event/prasac-participates-in-cambodia-fintech-day-2019)
 - 2019.09.12: Soramitsu won the "Future of Financial Services" award on [Tech Rocketship Awards](https://www.gov.uk/government/news/426385.ja), held by the British Embassy in Japan and the Scottish International Development Agency​
 - 2019.09.06: Soramitsu won UK Award at [Fintech Summit by JFSA](https://finsum.jp/2019/competing-companies/) in Tokyo.
     We also received Future of Financial Services award from UK Tech Rocketships!
